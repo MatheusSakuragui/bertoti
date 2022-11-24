@@ -3,6 +3,25 @@
 <h2>1. Perceptível</h2>
 <p>As informações e os componentes da interface do usuário devem ser apresentados em formas que possam ser percebidas pelo usuário</p>
 
+<h3>1.4 Discernível</h3>
+<p>Facilitar a audição e a visualização de conteúdo aos usuários, incluindo a separação entre o primeiro plano e o plano de fundo.</p>
+
+<h4>Acerto :white_check_mark:</h4>
+<i>Cadastro de conta Google exibe campos obrigatórios de forma diferente :heavy_check_mark:</i>
+<img src ="https://user-images.githubusercontent.com/83602968/203872072-a7adff63-10f3-441d-9bbc-2f5cd5d4bdc9.png" />
+
+
+<h3>1.1 Alternativas em Texto</h3>
+<p>Fornecer alternativas textuais para qualquer conteúdo não textual, para que possa ser transformado em outras formas de acordo com as necessidades dos usuários, tais como impressão com tamanho de fontes maiores, braille, fala, símbolos ou linguagem mais simples..</p>
+
+<h4>Acerto :white_check_mark:</h4>
+<i>Legendas do youtube :heavy_check_mark:</i>
+<img src ="https://user-images.githubusercontent.com/83602968/203872925-b4d2a503-c052-45ac-b458-57ce5d924d19.png" />
+
+
+
+
+
 <h2>2. Operável</h2>
 <p>Os componentes de interface de usuário e a navegação devem ser operáveis.</p>
 
